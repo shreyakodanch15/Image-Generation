@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pillow
+tqdm
+flax
+jax
+jaxlib
